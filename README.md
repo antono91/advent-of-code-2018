@@ -1,2 +1,2 @@
 # advent-of-code-2018
-Advent of Code 2018 Puzzels
+Here is my attempt to the Advent of Code 2018 Challenges
